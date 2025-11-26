@@ -1,53 +1,89 @@
 # 🧩 Dmitry Project Portfolio
 
-Welcome to my comprehensive portfolio showcasing **AI** and **Java** development projects.
-
-This repository serves as a **central hub** for my professional and educational projects —  
-from AI assistants and semantic analyzers to backend microservices in Java.
+Welcome to my comprehensive portfolio showcasing **AI** and **Java** development projects.  
+This repository serves as a **central hub** for my professional and educational work —  
+from AI assistants and semantic analyzers to backend microservices and production-ready services in Java.
 
 ---
 
 ## 🚀 Overview
 
 | Category | Description |
-|-----------|-------------|
-| 🧠 [AI Projects](./AI_Projects) | Projects with Python, FastAPI, ML, NLP, and AI assistants |
-| ☕ [Java Projects](./Java_Projects) | Spring Boot microservices, Telegram bots, and database automation |
+|----------|-------------|
+| 🧠 [AI Projects](./AI_Projects) | Semantic analysis, NLP pipelines, embeddings, FastAPI apps, AI agents |
+| ☕ [Java Projects](./Java_Projects) | Spring Boot microservices, Telegram bots, enterprise backend systems |
 
 ---
 
 ## 🧠 AI Projects
 
-Explore projects built with Python, FastAPI, and AI/ML:
-- **Hybrid Telegram Assistant** – Deep semantic news analysis with clustering and embeddings.
-- **News Semantic Analyzer** – Thematic classification and semantic search.
-- **Generative AI Tools** – Text summarizers and image generators.
+AI-driven systems built with Python, FastAPI, and modern ML/NLP frameworks:
 
-👉 [Go to AI Projects](./AI_Projects)
+- **Hybrid Telegram Assistant**  
+  Deep semantic news analysis using transformers, HDBSCAN clustering, PCA, and vector search.
+
+- **News Semantic Analyzer**  
+  Thematic classification, keyword extraction, duplicate detection, and trend discovery.
+
+- **Generative AI Tools**  
+  Text summarizers, prompt engines, and multimodal assistants.
+
+👉 **[Explore AI Projects →](./AI_Projects)**
 
 ---
 
 ## ☕ Java Projects
 
-Backend and enterprise systems using Spring Boot, Liquibase, and Docker:
-- **Ticket Microservices** – Distributed system for ticket booking.
-- **M-Social Bot** – Telegram bot with user registration and notifications.
+Backend systems and microservices using Spring Boot, Liquibase, PostgreSQL, and Docker:
 
-👉 [Go to Java Projects](./Java_Projects)
+- **Ticket Microservices**  
+  Distributed booking system with authentication, routing, purchasing logic, and clean domain architecture.
+
+- **M-Social Bot**  
+  Telegram bot for user registration, messaging analytics, and scheduled notifications.
+
+- **Backend Utilities**  
+  REST APIs, database automation, and reusable Java infrastructure.
+
+👉 **[Explore Java Projects →](./Java_Projects)**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** Java, Python  
-**Frameworks:** Spring Boot, FastAPI, Flask  
-**Databases:** PostgreSQL, MongoDB  
-**DevOps:** Docker, Liquibase  
-**AI/ML:** PyTorch, Hugging Face, SentenceTransformers, FAISS  
-**Other:** REST API, OpenAPI, n8n automation
+### **Languages**
+- Java
+- Python
+- SQL
+
+### **Backend & Frameworks**
+- Spring Boot (Web, Data JPA, Security, Test)
+- FastAPI, Flask
+
+### **Data & Storage**
+- PostgreSQL, MongoDB  
+- Liquibase  
+- Redis (optional per project)
+
+### **AI / Machine Learning**
+- PyTorch  
+- Hugging Face transformers  
+- SentenceTransformers  
+- FAISS vector search  
+- HDBSCAN, PCA, cosine similarity pipelines
+
+### **DevOps / Tools**
+- Docker, Docker Compose  
+- GitHub Actions  
+- n8n automation  
+- REST API design, OpenAPI/Swagger
 
 ---
 
-📎 **GitHub:** [github.com/DmitryB21](https://github.com/DmitryB21)  
-📧 **Contact:**  
+## 📫 Contact
+
+- GitHub: https://github.com/DmitryB21
+- Email: dblukherov@gmail.com
+
+
 
