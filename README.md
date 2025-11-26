@@ -1,16 +1,53 @@
-## Hi there 👋
+# 🧩 Dmitry Project Portfolio
 
-<!--
-**DmitryB21/DmitryB21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my comprehensive portfolio showcasing **AI** and **Java** development projects.
 
-Here are some ideas to get you started:
+This repository serves as a **central hub** for my professional and educational projects —  
+from AI assistants and semantic analyzers to backend microservices in Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Overview
+
+| Category | Description |
+|-----------|-------------|
+| 🧠 [AI Projects](./AI_Projects) | Projects with Python, FastAPI, ML, NLP, and AI assistants |
+| ☕ [Java Projects](./Java_Projects) | Spring Boot microservices, Telegram bots, and database automation |
+
+---
+
+## 🧠 AI Projects
+
+Explore projects built with Python, FastAPI, and AI/ML:
+- **Hybrid Telegram Assistant** – Deep semantic news analysis with clustering and embeddings.
+- **News Semantic Analyzer** – Thematic classification and semantic search.
+- **Generative AI Tools** – Text summarizers and image generators.
+
+👉 [Go to AI Projects](./AI_Projects)
+
+---
+
+## ☕ Java Projects
+
+Backend and enterprise systems using Spring Boot, Liquibase, and Docker:
+- **Ticket Microservices** – Distributed system for ticket booking.
+- **M-Social Bot** – Telegram bot with user registration and notifications.
+
+👉 [Go to Java Projects](./Java_Projects)
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Java, Python  
+**Frameworks:** Spring Boot, FastAPI, Flask  
+**Databases:** PostgreSQL, MongoDB  
+**DevOps:** Docker, Liquibase  
+**AI/ML:** PyTorch, Hugging Face, SentenceTransformers, FAISS  
+**Other:** REST API, OpenAPI, n8n automation
+
+---
+
+📎 **GitHub:** [github.com/DmitryB21](https://github.com/DmitryB21)  
+📧 **Contact:**  
+
