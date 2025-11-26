@@ -10,8 +10,8 @@ from AI assistants and semantic analyzers to backend microservices and productio
 
 | Category | Description |
 |----------|-------------|
-| 🧠 [AI Projects](./[AI_Projects](https://github.com/DmitryB21/dmitryb21-project-portfolio/tree/main/AI_Projects)) | Semantic analysis, NLP pipelines, embeddings, FastAPI apps, AI agents |
-| ☕ [Java Projects]([./Java_Projects](https://github.com/DmitryB21/dmitryb21-project-portfolio/tree/main/Java_Projects)) | Spring Boot microservices, Telegram bots, enterprise backend systems |
+| 🧠 [AI Projects](./[AI_Projects](https://github.com/DmitryB21/dmitryb21-project-portfolio/AI_Projects)) | Semantic analysis, NLP pipelines, embeddings, FastAPI apps, AI agents |
+| ☕ [Java Projects]([./Java_Projects](https://github.com/DmitryB21/dmitryb21-project-portfolio/Java_Projects)) | Spring Boot microservices, Telegram bots, enterprise backend systems |
 
 ---
 
