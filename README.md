@@ -54,18 +54,9 @@ https://github.com/DmitryB21/dmitryb21-project-portfolio/tree/main/Java_Projects
 ## 🧰 Tech Stack
 
 ### **Languages**
-- Java  
 - Python  
+- Java  
 - SQL  
-
-### **Backend & Frameworks**
-- Spring Boot (Web, Data JPA, Security, Test)
-- FastAPI, Flask
-
-### **Data & Storage**
-- PostgreSQL, MongoDB  
-- Liquibase  
-- Redis  
 
 ### **AI / Machine Learning**
 - PyTorch  
@@ -78,7 +69,16 @@ https://github.com/DmitryB21/dmitryb21-project-portfolio/tree/main/Java_Projects
 - Docker & Docker Compose  
 - GitHub Actions  
 - n8n automation  
-- REST API design, OpenAPI/Swagger  
+- REST API design, OpenAPI/Swagger
+
+### **Backend & Frameworks**
+- Spring Boot (Web, Data JPA, Security, Test)
+- FastAPI, Flask
+
+### **Data & Storage**
+- PostgreSQL, MongoDB  
+- Liquibase  
+- Redis  
 
 ---
 
